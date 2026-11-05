@@ -38,7 +38,8 @@ export const defaultSiteContent: SiteContent = {
     diamondRateLabel: "Diamond: Price on enquiry",
     promo: { code: "WELCOME500", discount: 500 },
     freeShippingThreshold: 25000,
-    storeLocation: "15+ stores across Maharashtra",
+    storeLocation:
+      "Location : Anup Jewellers , Opposite BSNL Office , Pune - Pandharpur Main Road , Malshiras , Dist : Solapur , Pin : 413107",
     tickerExtras: [
       "BIS Hallmarked Jewellery",
       "Lifetime Exchange Available",
@@ -210,4 +211,3 @@ export const defaultSiteContent: SiteContent = {
     cartSubject: "Jewellery enquiry from",
   },
 };
-
